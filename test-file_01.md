@@ -1,6 +1,5 @@
-This is a test... 01
+This is a test... 02
 
-This was written locally
 This is some random text
 
-This was written from GitHUb
+This was written locally
