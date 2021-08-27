@@ -1,5 +1,3 @@
-This is a test... 02
-
-This is some random text
+This is a test... 04
 
 This was written locally
